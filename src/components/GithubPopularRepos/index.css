@@ -1,0 +1,26 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.language-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+.render-repo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Lobster';
+  font-size: 36px;
+  font-weight: bold;
+}

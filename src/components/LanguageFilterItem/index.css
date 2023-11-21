@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.p-lan-buttons {
+  list-style-type: none;
+  margin: 15px;
+}
+
+.active {
+  border: 2px solid #0284c7;
+  border-radius: 12px;
+  color: #0284c7;
+  background-color: transparent;
+  height: 20px;
+  width: 80px;
+}
+.non-active {
+  background-color: transparent;
+  border: 0;
+}
